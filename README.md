@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Machine Learning and Rust**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-js-henna.vercel.app/](https://portfolio-js-gilt.vercel.app)
+- 👨‍💻 All of my projects are available at [https://nikunjagarwal.vercel.app/](https://nikunjagarwal.vercel.app/)
 
 - 📫 How to reach me **180705nikunj@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-js-henna.vercel.app/](https://portfolio-js-gilt.vercel.app)
+- 📄 Know about my experiences [https://nikunjagarwal.vercel.app/](https://nikunjagarwal.vercel.app/)
 
 
 ## 🌐 Socials:
