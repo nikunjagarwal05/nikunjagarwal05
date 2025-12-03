@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikunj Agarwal</h1>
-<h3 align="center">A passionate frontend developer, rapidly increasing skills in Backend development. Learning ML and Rust to dive into Blockchain Development</h3>
+<h3 align="center">A passionate Full Stack developer, rapidly improving skills in Backend development. Exploring Machine Learning.</h3>
 
 - 🌱 I’m currently learning **Machine Learning and Rust**
 
